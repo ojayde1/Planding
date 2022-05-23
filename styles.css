@@ -206,6 +206,9 @@ img{
 .footer-top{
 
 }
+
+
+
 @media screen and (max-width: 992px){
      #about::before{
           
@@ -224,5 +227,8 @@ img{
           align-items: center;
          
      }
+      .w-50 {
+          width: 80% !important;
+      }
 
 }
